@@ -4,5 +4,18 @@
 
 Other name of anomalies: outliers, novelties, noise, deviations and exceptions.[1]
 
+## Some Related Conferences and Journals
+### Conference
+1. The Association for Computing Machinery's Special Interest Group on Knowledge Discovery and Data Mining (ACM SIGKDD)
+2. IEEE Industrial Conference on Data Mining (ICDM)
+3. SIAM International Conference on Data Mining (SDM)
+4. IEEE International Conference on Data Engineering (ICDE)
+5. International Conference on Information and Knowledge Managemen (CIKM)
+### Journal
+1. IEEE Transactions on Knowledge and Data Engineering (TKDE)
+2. ACM Transactions on Knowledge Discovery from Data (TKDD)
+3. ACM Transactions on Information Systems (TOIS)
+4. ACM Transactions on Intelligent Syetems and Technology (TIST)
+5. Springer Data Mining and Knowledge Discovery (DMKD)
 
 [1]: Hodge V, Austin J. A survey of outlier detection methodologies. Artificial intelligence review, 2004, 22(2): 85-126.
