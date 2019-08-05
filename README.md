@@ -17,5 +17,8 @@ Other name of anomalies: outliers, novelties, noise, deviations and exceptions.[
 3. ACM Transactions on Information Systems (TOIS)
 4. ACM Transactions on Intelligent Syetems and Technology (TIST)
 5. Springer Data Mining and Knowledge Discovery (DMKD)
+## Books
+1. <<Outlier Analysis>> Authors: Aggarwal, Charu C.
+2. <<Outlier Ensembles An Introduction>> Authors: Aggarwal, Charu C., Sathe, Saket
 
 [1]: Hodge V, Austin J. A survey of outlier detection methodologies. Artificial intelligence review, 2004, 22(2): 85-126.
